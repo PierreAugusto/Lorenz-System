@@ -1,6 +1,8 @@
 # Lorenz-System
 Notebook contendo alguns dos Plots gerados para o sistema de Lorenz
 
+O codigo Vpython_code_glowscript.py pode ser rodado no site do https://www.glowscript.org para visualizar em 3D
+
 Animação 2D criada com Runge Kutta 4 ordem
 
 
